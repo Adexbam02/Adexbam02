@@ -40,10 +40,27 @@ Hello there! 👋 I'm Nurain, your friendly neighborhood Frontend Developer hail
 
 ---
 # Recent Project
--:bulb: Krypto+ [Ongoing] <a href="https://kryptoplus.netlify.app/"> View Live</a>
+- :bulb: Krypto+ [Ongoing] <a href="https://kryptoplus.netlify.app/"> View Live</a>
 
--:mag_right: Github User [Completed] <a href="https://github-user-lime.vercel.app/"> View Live</a>
+- :mag_right: Github User [Completed] <a href="https://github-user-lime.vercel.app/"> View Live</a>
 
--:mag_right: OptiMetrics [Completed] <a href="https://optimetrics.netlify.app/"> View Live</a>
+- :mag_right: OptiMetrics [Completed] <a href="https://optimetrics.netlify.app/"> View Live</a>
 
--🚀 Jadoo [Ongoing] <a href="https://github.com/Adexbam02/Jadoo"> View Source</a>
+- 🚀 Jadoo [Ongoing] <a href="https://github.com/Adexbam02/Jadoo"> View Source</a>
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="50px" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="HTML" height="50px" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="HTML" height="50px" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="HTML" height="50px" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="HTML" height="50px" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="HTML" height="50px" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="HTML" height="50px" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="HTML" height="50px" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="HTML" height="50px" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="HTML" height="50px" width="50px"/>
+</div>
