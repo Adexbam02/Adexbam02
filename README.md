@@ -64,3 +64,9 @@ Hello there! 👋 I'm Nurain, your friendly neighborhood Frontend Developer hail
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="HTML" height="50px" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="HTML" height="50px" width="50px"/>
 </div>
+
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=Adexbam02
+
