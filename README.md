@@ -20,3 +20,26 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+Hello there! 👋 I'm Nurain, your friendly neighborhood Frontend Developer hailing from the vibrant land of Nigeria 🇳🇬.✨🚀
+
+- :telescope: I build or collaborate on web development project, especially Frontend!.
+
+- :seedling: Aspiring tobe a  Full Stack Developer .
+
+- :zap: In my free time, I read novel:books:, listen to podcast:headphones:, Football:soccer:, Movies:tv: and exploring Javascript City:white_check_mark:
+- :mailbox:How to reach me:
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+
+---
+# Recent Project
+-:bulb: Krypto+ [Ongoing] <a href="https://kryptoplus.netlify.app/"> View Live</a>
+-:mag_right: Krypto+ [Completed] <a href="https://github-user-lime.vercel.app/"> View Live</a>
+-:mag_right: OptiMetrics [Completed] <a href="https://optimetrics.netlify.app/"> View Live</a>
