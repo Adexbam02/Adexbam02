@@ -39,7 +39,7 @@ Hello there! 👋 I'm Nurain, your friendly neighborhood Frontend Developer hail
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 
 ---
-# Recent Project
+### Recent Project
 - :bulb: Krypto+ [Ongoing] <a href="https://kryptoplus.netlify.app/"> View Live</a>
 
 - :mag_right: Github User [Completed] <a href="https://github-user-lime.vercel.app/"> View Live</a>
@@ -69,4 +69,6 @@ Hello there! 👋 I'm Nurain, your friendly neighborhood Frontend Developer hail
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adexbam02&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adexbam02&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
