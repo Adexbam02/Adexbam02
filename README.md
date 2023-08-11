@@ -41,5 +41,9 @@ Hello there! 👋 I'm Nurain, your friendly neighborhood Frontend Developer hail
 ---
 # Recent Project
 -:bulb: Krypto+ [Ongoing] <a href="https://kryptoplus.netlify.app/"> View Live</a>
--:mag_right: Krypto+ [Completed] <a href="https://github-user-lime.vercel.app/"> View Live</a>
+
+-:mag_right: Github User [Completed] <a href="https://github-user-lime.vercel.app/"> View Live</a>
+
 -:mag_right: OptiMetrics [Completed] <a href="https://optimetrics.netlify.app/"> View Live</a>
+
+-🚀 Jadoo [Ongoing] <a href="https://github.com/Adexbam02/Jadoo"> View Source</a>
