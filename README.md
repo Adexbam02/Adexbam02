@@ -18,7 +18,7 @@
 
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-6ib6KPmkeAjDTxMxij" width="30px"/>
 </h1>
 
 <div align="center">
