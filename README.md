@@ -74,3 +74,9 @@ Hello there! 👋 I'm Nurain, your friendly neighborhood Frontend Developer hail
 
 ---
 ### Currently Exploring:
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" height="50px" width="50px"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="50px" width="50px"/>
+</div>
