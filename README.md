@@ -32,7 +32,7 @@ Hello there! 👋 I'm Nurain, your friendly neighborhood Frontend Developer hail
 
 - :telescope: I build or collaborate on web development project, especially Frontend!.
 
-- :seedling: Aspiring tobe a  Full Stack Developer .
+- :seedling: Aspiring to be a  Full Stack Developer .
 
 - :zap: In my free time, I read novel:books:, listen to podcast:headphones:, Football:soccer:, Movies:tv: and exploring Javascript City:white_check_mark:
 - :mailbox:How to reach me:
